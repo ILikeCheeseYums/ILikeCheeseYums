@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I’m someone who loves exploring how systems work under the hood. I enjoy building things from scratch, tweaking systems, and experimenting with code purely out of curiosity and a desire to learn.
 
-> If you are wondering why do I have no activity for 1st 4yrs of my account creation just know its cuz I have yeeted for 60~70 because I didnt like em :3
+> If you are wondering why do I have no activity for 1st 4yrs of my account creation just know its cuz I have yeeted 60~70 repos because I didnt like em :3
 ---
 
 ## Hobbies & Stuff I like to do
